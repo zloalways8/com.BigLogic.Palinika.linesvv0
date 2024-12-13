@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbf9d4ed-a378-44a2-9c2a-6e97a053e2a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LineRendererSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GridGame.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LevelSelector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BackgroundSelectionMenu.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TileSpawner.cs" />
+        <option value="$PROJECT_DIR$/PaddleController.cs" />
+        <option value="$PROJECT_DIR$/Brick.cs" />
+        <option value="$PROJECT_DIR$/BrickSpawner.cs" />
+        <option value="$PROJECT_DIR$/BallController.cs" />
+        <option value="$PROJECT_DIR$/NewBehaviourScript1.cs" />
+        <option value="$PROJECT_DIR$/NumberPlacer.cs" />
+        <option value="$PROJECT_DIR$/LineConnector.cs" />
+        <option value="$PROJECT_DIR$/DragNumber.cs" />
+        <option value="$PROJECT_DIR$/CellController.cs" />
+        <option value="$PROJECT_DIR$/GridManager.cs" />
+        <option value="$PROJECT_DIR$/Cell.cs" />
+        <option value="$PROJECT_DIR$/PlayerInputHandler.cs" />
+        <option value="$PROJECT_DIR$/GameManager.cs" />
+        <option value="$PROJECT_DIR$/TileController.cs" />
+        <option value="$PROJECT_DIR$/DragController.cs" />
+        <option value="$PROJECT_DIR$/LineDrawer.cs" />
+        <option value="$PROJECT_DIR$/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/LinkNumbersGame.cs" />
+        <option value="$PROJECT_DIR$/LinkNumbersManager.cs" />
+        <option value="$PROJECT_DIR$/BackgroundSelectionMenu.cs" />
+        <option value="$PROJECT_DIR$/ObjectSwitcher.cs" />
+        <option value="$PROJECT_DIR$/BackgroundManager.cs" />
+        <option value="$PROJECT_DIR$/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/LineRendererSettings.cs" />
+        <option value="$PROJECT_DIR$/GridGame.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2p7NujIL1kI3iHGjRTKNJHsSJ5t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbf9d4ed-a378-44a2-9c2a-6e97a053e2a0" name="Default Changelist" comment="" />
+      <created>1732113380747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732113380747</updated>
+      <workItem from="1732113383296" duration="3130000" />
+      <workItem from="1732123945346" duration="3290000" />
+      <workItem from="1732274261735" duration="1526000" />
+      <workItem from="1732455095744" duration="220000" />
+      <workItem from="1732455326445" duration="668000" />
+      <workItem from="1733248233582" duration="837000" />
+      <workItem from="1733516242711" duration="1940000" />
+      <workItem from="1733671393424" duration="5560000" />
+      <workItem from="1733696906293" duration="9438000" />
+      <workItem from="1733927678943" duration="607000" />
+      <workItem from="1734017306916" duration="2706000" />
+      <workItem from="1734025178190" duration="3272000" />
+      <workItem from="1734046365717" duration="5556000" />
+      <workItem from="1734063824184" duration="2069000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
